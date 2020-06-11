@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\bin\Debug\netcoreapp3.1\Inputoutput.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\bin\Debug\netcoreapp3.1\Inputoutput.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\bin\Debug\netcoreapp3.1\Inputoutput.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\bin\Debug\netcoreapp3.1\Inputoutput.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\bin\Debug\netcoreapp3.1\Inputoutput.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\bin\Debug\netcoreapp3.1\Inputoutput.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.csprojAssemblyReference.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\Inputoutput\obj\Debug\netcoreapp3.1\Inputoutput.genruntimeconfig.cache

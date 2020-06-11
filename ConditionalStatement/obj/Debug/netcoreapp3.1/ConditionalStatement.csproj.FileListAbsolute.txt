@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\bin\Debug\netcoreapp3.1\ConditionalStatement.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\bin\Debug\netcoreapp3.1\ConditionalStatement.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\bin\Debug\netcoreapp3.1\ConditionalStatement.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\bin\Debug\netcoreapp3.1\ConditionalStatement.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\bin\Debug\netcoreapp3.1\ConditionalStatement.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\bin\Debug\netcoreapp3.1\ConditionalStatement.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.csprojAssemblyReference.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ConditionalStatement\obj\Debug\netcoreapp3.1\ConditionalStatement.genruntimeconfig.cache

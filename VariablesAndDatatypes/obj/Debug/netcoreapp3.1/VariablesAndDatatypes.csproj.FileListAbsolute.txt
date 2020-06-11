@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.csprojAssemblyReference.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.genruntimeconfig.cache

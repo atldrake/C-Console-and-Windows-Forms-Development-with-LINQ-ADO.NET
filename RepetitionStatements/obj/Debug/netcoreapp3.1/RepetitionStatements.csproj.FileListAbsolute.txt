@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\bin\Debug\netcoreapp3.1\RepetitionStatements.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\bin\Debug\netcoreapp3.1\RepetitionStatements.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\bin\Debug\netcoreapp3.1\RepetitionStatements.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\bin\Debug\netcoreapp3.1\RepetitionStatements.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\bin\Debug\netcoreapp3.1\RepetitionStatements.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\bin\Debug\netcoreapp3.1\RepetitionStatements.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.genruntimeconfig.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\RepetitionStatements\obj\Debug\netcoreapp3.1\RepetitionStatements.csprojAssemblyReference.cache

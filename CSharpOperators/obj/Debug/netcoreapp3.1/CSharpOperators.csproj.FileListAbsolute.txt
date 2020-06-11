@@ -1,0 +1,12 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\bin\Debug\netcoreapp3.1\CSharpOperators.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\bin\Debug\netcoreapp3.1\CSharpOperators.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\bin\Debug\netcoreapp3.1\CSharpOperators.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\bin\Debug\netcoreapp3.1\CSharpOperators.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\bin\Debug\netcoreapp3.1\CSharpOperators.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\bin\Debug\netcoreapp3.1\CSharpOperators.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\obj\Debug\netcoreapp3.1\CSharpOperators.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\obj\Debug\netcoreapp3.1\CSharpOperators.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\obj\Debug\netcoreapp3.1\CSharpOperators.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\obj\Debug\netcoreapp3.1\CSharpOperators.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\obj\Debug\netcoreapp3.1\CSharpOperators.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\CSharpOperators\obj\Debug\netcoreapp3.1\CSharpOperators.genruntimeconfig.cache
