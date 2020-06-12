@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
