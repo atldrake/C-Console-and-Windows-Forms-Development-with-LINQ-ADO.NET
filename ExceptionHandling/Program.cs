@@ -26,6 +26,7 @@ namespace ExceptionHandling
             }
             catch (Exception e)
             {
+                //throw;
                 Console.WriteLine($"Invalid operation entered: {e.Message}");
 
             }

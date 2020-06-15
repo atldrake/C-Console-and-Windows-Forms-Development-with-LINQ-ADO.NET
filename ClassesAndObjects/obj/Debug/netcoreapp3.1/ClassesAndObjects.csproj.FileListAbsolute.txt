@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.genruntimeconfig.cache
