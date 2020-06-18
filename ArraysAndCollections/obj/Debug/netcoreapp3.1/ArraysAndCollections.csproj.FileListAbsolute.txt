@@ -1,0 +1,13 @@
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\bin\Debug\netcoreapp3.1\ArraysAndCollections.exe
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\bin\Debug\netcoreapp3.1\ArraysAndCollections.deps.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\bin\Debug\netcoreapp3.1\ArraysAndCollections.runtimeconfig.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\bin\Debug\netcoreapp3.1\ArraysAndCollections.runtimeconfig.dev.json
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\bin\Debug\netcoreapp3.1\ArraysAndCollections.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\bin\Debug\netcoreapp3.1\ArraysAndCollections.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.AssemblyInfoInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.AssemblyInfo.cs
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.dll
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.pdb
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.genruntimeconfig.cache
+C:\Users\ATL Drake\Desktop\C#\ConsoleProgramming\ArraysAndCollections\obj\Debug\netcoreapp3.1\ArraysAndCollections.csprojAssemblyReference.cache
